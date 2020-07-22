@@ -6,4 +6,3 @@
 <a href="https://www.instagram.com/samuelhsnu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/samuelhsnu" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=flat-square&logo=facebook&logoColor=white&color=4267B2" alt="Facebook"></a>
 
-[![HitCount](http://hits.dwyl.com/SamuelLin/SamuelLin.svg)](http://hits.dwyl.com/SamuelLin/SamuelLin)
